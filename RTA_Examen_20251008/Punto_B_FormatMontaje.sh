@@ -5,7 +5,7 @@
 #Formateo y montaje del disco
 #
 
-DISCO="/dev/sdc"
+DISCO= "/dev/sdc"
 
 echo= "--- INICIALIZANDO FORMATEO DE PARTICIONES ---"
 
@@ -32,7 +32,6 @@ sudo mount /dev/sdc6 /mnt/Cometa/Gravedad
 sudo mount /dev/sdc7 /mnt/Cometa/Orbita
 
 echo= "--- MONTAJE PERSISTENTE ---"
-
 
 sudo cp /etc/fstab /etc/fstab.bak
 
