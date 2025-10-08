@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#Punto C - Creación de usuarios y grupos
+#Punto C
 #
 #Crear usuarios y grupos
 #

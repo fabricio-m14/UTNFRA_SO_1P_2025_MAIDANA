@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#Punto B FormatMontaje
+#Punto B
 #
 #Formateo y montaje del disco
 #

@@ -1,8 +1,8 @@
 #!/bin/bash
 #
-#Punto B - Particiones
+#Punto B
 #
-#Particionamiento
+#Particiones
 #
 
 DISCO="/dev/sdc"
