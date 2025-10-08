@@ -27,7 +27,7 @@ echo= "--- MONTAJE ---"
 
 sudo mount /dev/sdc1 /mnt/Planeta/Graavedad
 sudo mount /dev/sdc2 /mnt/Planeta/Orbita
-sudo mount /dev/sc5 /mnt/Cometa/Cola
+sudo mount /dev/sdc5 /mnt/Cometa/Cola
 sudo mount /dev/sdc6 /mnt/Cometa/Gravedad
 sudo mount /dev/sdc7 /mnt/Cometa/Orbita
 
