@@ -25,7 +25,7 @@ sudo mkdir -p /mnt/Cometa/Orbita
 
 echo "--- MONTAJE ---"
 
-sudo mount /dev/sdc1 /mnt/Planeta/Graavedad
+sudo mount /dev/sdc1 /mnt/Planeta/Gravedad
 sudo mount /dev/sdc2 /mnt/Planeta/Orbita
 sudo mount /dev/sdc5 /mnt/Cometa/Cola
 sudo mount /dev/sdc6 /mnt/Cometa/Gravedad
